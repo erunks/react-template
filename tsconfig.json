@@ -27,7 +27,10 @@
     "sourceMap": true, /* generates corrresponding .map file */
     "strict": true, /* enables all strict type checking options */
 
-    "baseUrl": ".",
+    "baseUrl": "./src",
+    "paths": {
+      "@types": ["types"],
+    },
     "lib": [
       "dom",
       "dom.iterable",
