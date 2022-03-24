@@ -12,3 +12,4 @@ export const stubbedRender = (
 
 export * from '@testing-library/react';
 export { userEvent as fireEvent };
+export { stubbedRender as render };
