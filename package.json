@@ -57,7 +57,7 @@
     "@babel/preset-react": "7.24.1",
     "@babel/preset-typescript": "7.24.1",
     "@types/jest": "27.5.2",
-    "@types/node": "16.18.97",
+    "@types/node": "16.18.123",
     "@types/react": "18.3.1",
     "@types/react-dom": "18.3.0",
     "@typescript-eslint/eslint-plugin": "5.62.0",
